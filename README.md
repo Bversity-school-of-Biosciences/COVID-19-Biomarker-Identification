@@ -55,8 +55,8 @@ To effectively display the results, a horizontal bar graph was chosen as the mos
   diseased samples, as well as the statistical significance of the changes.
   
 **Using Color to Represent Fold Change:**
-* A color gradient was applied to the bar graph to represent the range of fold changes. This helps to visually distinguish between genes with small and large changes in expression, providing an at-a-glance 
-  overview of which genes show the most significant differences.
+A color gradient was applied to the bar graph to represent the range of fold changes. This helps to visually distinguish between genes with small and large changes in expression, providing an at-a-glance 
+overview of which genes show the most significant differences.
 
 **Labeling Gene Expression Values:**
 The labeling option was used to display the exact fold change values for each gene on the bar graph. This ensures that users can easily interpret the magnitude of change for each gene without needing to refer back to the raw data.
